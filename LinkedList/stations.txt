@@ -1,0 +1,50 @@
+01	Kalyan Junction
+02	Thane
+03	Pune Junction
+04	Panvel Junction
+05	Lokmanya Tilak Terminus
+06	Chhatrapati Shivaji Maharaj Terminus
+07	Mumbai Central
+08	Nagpur Junction
+09	Nasik Road
+10	Solapur Junction
+11	Hazur Sahib Nanded
+12	Bandra Terminus
+13	Bhusaval Junction
+14	Manmad Junction
+15	Balharshah Junction
+16	Jalgaon Junction
+17	Akola Junction
+18	Lonavala
+19	Daund Junction
+20	Badnera Junction
+21	Gondia Junction
+22	Wardha Junction
+23	Kopargaon
+24	Ahmednagar
+25	Parbhani Junction
+26	Miraj Junction
+27	Aurangabad
+28	Shegaon
+29	Nagarsol
+30	Chhatrapati Shahu Maharaj Terminus Kolhapur
+31	Amravati Terminal
+32	Sainagar Shirdi Terminus
+33	Chandrapur
+34	Purna Junction
+35	Malkapur
+36	Sewagram Junction
+37	Kurduvadi Junction
+38	Jalna
+39	Chalisgaon Junction
+40	Bhandara Road
+41	Bhiwandi Road
+42	Parli Vaijnath
+43	Latur
+44	Kamptee
+45	Itwari Junction
+46	Chanda Fort
+47	Ramtek
+48	Borivali
+49	Vasai Road
+50	Dadar Central

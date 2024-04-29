@@ -1,0 +1,30 @@
+3 Motiram
+12111 Mumbai CST (CSTM) To Amravati Terminal
+28 Shegaon
+31 Amravati Terminal
+3 0 1 0
+19 4 2022
+4 Shri
+12111 Mumbai CST (CSTM) To Amravati Terminal
+28 Shegaon
+31 Amravati Terminal
+3 0 2 0
+19 4 2022
+0 Ram
+12112 Amravati Terminal To Mumbai CST (CSTM)
+17 Akola Junction
+6 Chhatrapati Shivaji Maharaj Terminus
+3 0 1 0
+19 4 2022
+1 Lakshman
+12112 Amravati Terminal To Mumbai CST (CSTM)
+17 Akola Junction
+6 Chhatrapati Shivaji Maharaj Terminus
+3 0 2 0
+19 4 2022
+1 Lakshman
+12112 Amravati Terminal To Mumbai CST (CSTM)
+28 Shegaon
+6 Chhatrapati Shivaji Maharaj Terminus
+0 0 1 0
+18 4 2022

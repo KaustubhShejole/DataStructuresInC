@@ -1,0 +1,4 @@
+1AC Bogie 24 Seats Coach Code H sequence of 4
+2AC Bogie 48 seats Coach Code A sequence is of 4 main + 2 side
+3AC Bogie 64 seats Coach Code B sequence is of 6 main + 2 side
+S Bogie 72 Seats Coach Code S sequence is of 6 main + 2 side

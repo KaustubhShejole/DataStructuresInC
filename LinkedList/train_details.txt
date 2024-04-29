@@ -1,0 +1,22 @@
+11039 Maharashtra Express Kolhapur Junction (CSMT) To Gondia Junction (G)
+11040 Maharashtra Express Gondia Junction (G) To Kolhapur Junction (CSMT)
+12101 Jnaneshwari Express Lokmanyatilak Tilak Terminus To Kolkata Terminal
+12102 Jnaneshwari Express Kolkata Terminal To Lokmanyatilak Tilak Terminus
+12105 Vidarbha Express Mumbai Cst to Gondia Junction
+12106 Vidarbha SF Express Gondia To Mumbai CST (CSMT)
+12111 Mumbai CST (CSTM) To Amravati Terminal
+12112 Amravati Terminal To Mumbai CST (CSTM)
+12129 Azad Hind Express Pune Junction To Howrah Junction
+12130 Azad Hind Express Howrah Junction To Pune Junction
+12139 Sewagram SF Express Mumbai CST (CSMT) To Nagpur Junction
+12140 Sewagram SF Express Nagpur Junction To Mumbai CST (CSMT)
+12289 Mumbai CSMT To Nagpur Duronto Express
+12290 Nagpur To Mumbai Csmt Duronto Express
+12655 Navjeevan Superfast Express Ahmedabad To Chennai Central
+12656 Navjeevan Superfast Express Chennai Central To Ahmedabad Junction
+12833 Ahmedabad To Howrah Superfast Express
+12834 Howrah Ahmedabad Superfast Express
+12859 Geetanjali Express Mumbai CST (CSMT) To Howrah Junction (HWH)
+12860 Geetanjali Express Howrah Junction (HWH) To Mumbai CST (CSMT)
+22141 Pune Humsafar Pune Junction (PUNE) To Nagpur Junction (NGP)
+22142 Pune Humsafar Nagpur Junction (NGP) To Pune Junction (PUNE)

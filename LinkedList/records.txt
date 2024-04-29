@@ -1,0 +1,84 @@
+2 Lakshman
+12111 Mumbai CST (CSTM) To Amravati Terminal
+28 Shegaon
+31 Amravati Terminal
+0 0 2
+3 4 2022
+0 Ram
+12111 Mumbai CST (CSTM) To Amravati Terminal
+28 Shegaon
+31 Amravati Terminal
+0 0 3
+3 4 2022
+1 Shrihari
+12111 Mumbai CST (CSTM) To Amravati Terminal
+28 Shegaon
+31 Amravati Terminal
+0 0 1
+3 4 2022
+9 Shriji
+12112 Amravati Terminal To Mumbai CST (CSTM)
+28 Shegaon
+9 Nasik Road
+0 0 3
+3 4 2022
+4 Ajay
+12112 Amravati Terminal To Mumbai CST (CSTM)
+28 Shegaon
+9 Nasik Road
+0 0 1
+3 4 2022
+5 Vedant
+12112 Amravati Terminal To Mumbai CST (CSTM)
+28 Shegaon
+9 Nasik Road
+0 0 2
+3 4 2022
+3 Shri
+12112 Amravati Terminal To Mumbai CST (CSTM)
+28 Shegaon
+9 Nasik Road
+0 0 3
+3 4 2022
+6 Ram
+12112 Amravati Terminal To Mumbai CST (CSTM)
+13 Bhusaval Junction
+6 Chhatrapati Shivaji Maharaj Terminus
+2 0 2
+3 4 2022
+7 Shri
+12112 Amravati Terminal To Mumbai CST (CSTM)
+13 Bhusaval Junction
+6 Chhatrapati Shivaji Maharaj Terminus
+2 0 1
+3 4 2022
+8 Ram
+12112 Amravati Terminal To Mumbai CST (CSTM)
+31 Amravati Terminal
+6 Chhatrapati Shivaji Maharaj Terminus
+1 0 1
+3 4 2022
+0 Ram
+12129 Azad Hind Express Pune Junction To Howrah Junction
+17 Akola Junction
+21 Gondia Junction
+2 0 1
+3 4 2022
+0 Ram
+12129 Azad Hind Express Pune Junction To Howrah Junction
+17 Akola Junction
+21 Gondia Junction
+2 0 2
+3 4 2022
+9 Shriji
+12140 Sewagram SF Express Nagpur Junction To Mumbai CST (CSMT)
+8 Nagpur Junction
+20 Badnera Junction
+1 0 1
+4 1 2022
+9 Shriji
+12140 Sewagram SF Express Nagpur Junction To Mumbai CST (CSMT)
+8 Nagpur Junction
+20 Badnera Junction
+1 0 1
+4 3 2022
